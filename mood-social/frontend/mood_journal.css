@@ -1,0 +1,6 @@
+body { background: #f7f7f7; font-family: Arial; text-align: center; }
+header { background: #ff758c; padding: 15px; color: white; }
+.calendar { display: grid; grid-template-columns: repeat(7, 1fr); gap: 5px; margin: 20px; }
+.day { padding: 20px; background: #fff; border: 1px solid #ddd; cursor: pointer; }
+textarea { width: 80%; height: 100px; margin: 20px; }
+button { background: #ff758c; color: white; padding: 10px 20px; border: none; }
